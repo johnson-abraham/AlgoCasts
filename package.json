@@ -1,0 +1,23 @@
+{
+  "name": "AlgoCasts",
+  "version": "1.0.0",
+  "description": "Companion repo to a course on Udemy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnson-abraham/AlgoCasts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnson-abraham/AlgoCasts/issues"
+  },
+  "homepage": "https://github.com/johnson-abraham/AlgoCasts#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
